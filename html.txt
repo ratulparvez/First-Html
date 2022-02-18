@@ -1,0 +1,42 @@
+<html>
+<head>
+     <title>404 not error page found</title>
+</head>
+<body style="background: blue">
+<pre style="color: white">learn 
+       and <u><b><i>learn</i></b></u> and learn
+</pre>
+ <a href="http://www.google.com"> <button> Google  </button></a>
+<p>
+     <img src="img/map.png" width="250px" />
+</p>
+<p>
+     <table border ="1">
+          <tr>
+               <td>A
+               </td>
+               <td>B
+               </td>
+               <td>C
+               </td>
+          </tr>
+          <tr>
+               <td>1
+               </td>
+               <td>2
+               </td>
+               <td>3
+               </td>
+          </tr>
+          <tr>
+               <td>Continent
+               </td>
+               <td>Region
+               </td>
+               <td>Country
+               </td>
+          </tr>
+     </table>
+     </p>
+</body>
+ </html>
